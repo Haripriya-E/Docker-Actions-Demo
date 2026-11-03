@@ -1,2 +1,2 @@
-FROM alphine:latest
-CMD["echo","Docker image build successfullyy]
+FROM alpine:latest
+CMD ["echo","Docker image build successfully"]
